@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kiara! <br/><a href="https://github.com/KDeloatch">Programmer</a> & <a href="https://www.linkedin.com/in/kiara-d-2a5516279/">Cybersecurity Professional</a>
+<h1>Hi, I'm Kiara! <br/><a href="https://github.com/KDeloatch"></a> & <a href="https://www.linkedin.com/in/kiara-d-2a5516279/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Digital Forensics Projects:</h2>
 
